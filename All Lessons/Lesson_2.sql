@@ -12,4 +12,4 @@ SELECT * FROM movies WHERE year NOT BETWEEN 2000 AND 2010;
 
 -- 4) Find the first 5 Pixar movies and their release year
 
-SELECT * FROM movies WHERE id < 6;
+SELECT * FROM movies WHERE id < 6;a
