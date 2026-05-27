@@ -1,6 +1,6 @@
 -- 1) Find the title of each film
 
-SELECT title FROM movies;
+SELECT title FROM movies;d
 
 -- 2) Find the director of each film
 
