@@ -12,4 +12,4 @@ SELECT * FROM movies WHERE director != "John Lasseter";
 
 -- 4) Find all the WALL-* movies
 
-SELECT * FROM movies WHERE Title LIKE "WALL-_";
+SELECT * FROM movies WHERE Title LIKE "WALL-_";f
